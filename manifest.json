@@ -1,0 +1,10 @@
+{
+  "short_name": "Portfolio",
+  "name": "Web portfolio - David Abril",
+  "icons": [
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#332F2B"
+}
